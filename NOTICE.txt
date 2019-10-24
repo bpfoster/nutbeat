@@ -1,0 +1,5 @@
+nutbeat
+Copyright {year} Ben Foster
+
+This product includes software developed by The Apache Software
+Foundation (http://www.apache.org/).
